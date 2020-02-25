@@ -1,4 +1,9 @@
-# README
+# Task Manager APP 
+
+Ruby on Rails 5.2 and Vue.JS
+
+## Screenshot
+![Tela Home](https://github.com/rcoproc/task-manager-app-vue/blob/master/app/assets/images/example.png)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
